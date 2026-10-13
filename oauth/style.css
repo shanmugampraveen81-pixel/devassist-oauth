@@ -1,0 +1,5 @@
+:root { color-scheme: dark; font: 18px system-ui, sans-serif; background: #080f22; color: #f4f7f8; }
+main { max-width: 32rem; padding: 2rem; margin: 2rem auto; }
+p { line-height: 1.6; }
+a { display: inline-block; background: #86ffb9; color: #061c12; font-weight: 700; padding: 1rem; border-radius: 1rem; text-decoration: none; }
+[hidden] { display: none; }
